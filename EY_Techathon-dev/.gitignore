@@ -1,0 +1,8 @@
+.env
+__pycache__/
+myenv/
+venv/
+
+
+node_modules/
+guidelines/
